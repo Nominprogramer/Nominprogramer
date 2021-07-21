@@ -1,2 +1,0 @@
-# Nomiprogramer-portfoloio
-My Portfolio
