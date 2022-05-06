@@ -2,4 +2,4 @@ Hi, You can call me losty and I am a linux user. I like to contribute to Free an
 
 Portfolio : https://lostybtw.github.io/lostybtw/
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nominprogramer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lostybtw)](https://github.com/ryo-ma/github-profile-trophy)
